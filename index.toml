@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "033ee62537f1a7cca1f1a34bb6bf6ed8094743792d167152c945313c7c5092a4"
-
-[[files]]
-file = "README.md"
-hash = "7782fa3c23b19f05c533b29304b95c646358e039ef8471b02b95a08c9b409aa3"
-
-[[files]]
 file = "mods/packwiz-server-updater.pw.toml"
 hash = "d013302f28b40676734df3b6fed35c1e0748c3452ed26508343a6d9656533ff1"
 metafile = true
