@@ -1,5 +1,11 @@
 # Changelog
 
+Valorium Server v0.1.3 - 19/02/2024
+---------------
+ 
+- **Adicionado**:
+  - LuckPerms v5.4.102
+
 Valorium Server v0.1.2 - 18/02/2024
 ---------------
  
