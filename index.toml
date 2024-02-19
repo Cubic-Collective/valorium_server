@@ -14,3 +14,7 @@ metafile = true
 file = "mods/packwiz-server-updater.pw.toml"
 hash = "d013302f28b40676734df3b6fed35c1e0748c3452ed26508343a6d9656533ff1"
 metafile = true
+
+[[files]]
+file = "mods/vanilla-permissions-0.2.2+1.20.1.jar"
+hash = "44eae2422287683427cd2e84406a3ba704f0bdb72c47c194bc7eedc4fa3a1e75"
