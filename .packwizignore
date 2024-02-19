@@ -4,5 +4,6 @@
 # Exclude README
 /README.md
 /LICENSE
+/CHANGELOG.md
 /.gitignore
 /.gitattributes
