@@ -6,6 +6,11 @@ hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "7826b93c7f36611fbd9190481774daa349fa403875f8522d0ca4302e1345bd40"
+metafile = true
+
+[[files]]
 file = "mods/packwiz-server-updater.pw.toml"
 hash = "d013302f28b40676734df3b6fed35c1e0748c3452ed26508343a6d9656533ff1"
 metafile = true
