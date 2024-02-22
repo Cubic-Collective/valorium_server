@@ -1,5 +1,13 @@
 # Changelog
 
+Valorium Server v0.1.5 - 22/02/2024
+---------------
+ 
+- **Adicionado**:
+  - EasyAuth v3.0.19
+- **Mudanças**:
+  - Fabric Loader v0.15.6 para v0.15.7
+
 Valorium Server v0.1.4 - 19/02/2024
 ---------------
  
