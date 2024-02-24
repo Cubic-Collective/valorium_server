@@ -1,5 +1,13 @@
 # Changelog
 
+Valorium Server v0.1.6 - 24/02/2024
+---------------
+ 
+- **Adicionado**:
+  - Styled Chat v2.2.3
+  - Text Placeholder API v2.1.3
+  - LuckPerms Fabric PlaceholderAPI Addon
+
 Valorium Server v0.1.5 - 22/02/2024
 ---------------
  
