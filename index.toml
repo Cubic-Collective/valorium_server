@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/LuckPerms-Fabric-PlaceholderAPI-Hook.jar"
+hash = "8725f502a6277a38be066c0c7b8a11a193381c0de8e1f5857debd67f282cbd04"
+
+[[files]]
 file = "mods/easyauth.pw.toml"
 hash = "a4a87e7580a1651f429af181e1be40a5b3c4b1969f80288c5199dcde91592ee7"
 metafile = true
@@ -18,6 +22,16 @@ metafile = true
 [[files]]
 file = "mods/packwiz-server-updater.pw.toml"
 hash = "d013302f28b40676734df3b6fed35c1e0748c3452ed26508343a6d9656533ff1"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "6043836ca3c9b4f781ee91f07dc0277fbd1d465008f89b5f04c83584e66a7b0d"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "18cb5a5474406d7af310b53c93a983ffa608b03213f9d325e81dff3239566eb1"
 metafile = true
 
 [[files]]
