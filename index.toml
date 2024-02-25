@@ -5,6 +5,11 @@ file = "mods/LuckPerms-Fabric-PlaceholderAPI-Hook.jar"
 hash = "8725f502a6277a38be066c0c7b8a11a193381c0de8e1f5857debd67f282cbd04"
 
 [[files]]
+file = "mods/continents.pw.toml"
+hash = "f0a4562f19849d0bfc567017d4b6f04b57787ade7938a586aca24ec5481964d1"
+metafile = true
+
+[[files]]
 file = "mods/easyauth.pw.toml"
 hash = "a4a87e7580a1651f429af181e1be40a5b3c4b1969f80288c5199dcde91592ee7"
 metafile = true
@@ -30,8 +35,23 @@ hash = "6043836ca3c9b4f781ee91f07dc0277fbd1d465008f89b5f04c83584e66a7b0d"
 metafile = true
 
 [[files]]
+file = "mods/remove-terralith-intro-message.pw.toml"
+hash = "352bbd75887df2d8c2c181255a27d6aebc78dd52ee867c85a317a4e2b83a49fd"
+metafile = true
+
+[[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "18cb5a5474406d7af310b53c93a983ffa608b03213f9d325e81dff3239566eb1"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "65fa078fab8243283a0c8d569787a7146c4ee3d57f865cd5cb159b184ea1764b"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "ae0b30c99b62ec09615864f614df5449c19c02d21c6a64cec554263202bf8112"
 metafile = true
 
 [[files]]
