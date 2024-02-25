@@ -1,5 +1,14 @@
 # Changelog
 
+Valorium Server v0.1.7 - 25/02/2024
+---------------
+ 
+- **Adicionado**:
+  - Terralith v2.4.11
+  - Remove Terralith Intro Message v1.0
+  - Tectonic v2.2
+  - Continents v1.1.4
+
 Valorium Server v0.1.6 - 24/02/2024
 ---------------
  
