@@ -5,6 +5,11 @@ file = "mods/LuckPerms-Fabric-PlaceholderAPI-Hook.jar"
 hash = "8725f502a6277a38be066c0c7b8a11a193381c0de8e1f5857debd67f282cbd04"
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
+metafile = true
+
+[[files]]
 file = "mods/continents.pw.toml"
 hash = "f0a4562f19849d0bfc567017d4b6f04b57787ade7938a586aca24ec5481964d1"
 metafile = true
@@ -17,6 +22,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "3aea264b192b43936a734b27f3362baa9a4f6da26101d5366fdc5b7238d218bf"
 metafile = true
 
 [[files]]
