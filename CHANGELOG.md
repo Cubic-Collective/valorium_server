@@ -1,5 +1,12 @@
 # Changelog
 
+Valorium Server v0.1.8 - 25/02/2024
+---------------
+ 
+- **Adicionado**:
+  - Let Me Despawn v1.2.0
+  - Alternate Current v1.7.0
+
 Valorium Server v0.1.7 - 25/02/2024
 ---------------
  
