@@ -1,5 +1,12 @@
 # Changelog
 
+Valorium Server v0.2.0 - 01/03/2024
+---------------
+ 
+- **Adicionado**:
+  - Clumps v12.0.0.3
+  - Balm v7.2.2
+
 Valorium Server v0.1.8 - 25/02/2024
 ---------------
  
