@@ -1,5 +1,11 @@
 # Changelog
 
+Valorium Server v0.3.1 - 17/03/2024
+---------------
+
+- **Mudanças**:
+  - Tectonic v2.2 para v2.2.1
+
 Valorium v0.3.0 - 03/03/2024
 ---------------
 
