@@ -1,5 +1,13 @@
 # Changelog
 
+Valorium Server v0.3.2 - 29/04/2024
+---------------
+
+- **Mudanças**:
+  - Clumps v12.0.0.3 para v12.0.0.4
+  - Fabric API v0.92.0 para v0.92.1
+  - Tectonic v2.2.1 para v2.3.4
+
 Valorium Server v0.3.1 - 17/03/2024
 ---------------
 
