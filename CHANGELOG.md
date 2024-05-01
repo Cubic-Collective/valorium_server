@@ -1,5 +1,12 @@
 # Changelog
 
+Valorium Server v0.3.2 - 01/05/2024
+---------------
+
+- **Mudanças**:
+  - Fabric Loader v0.15.7 para v0.15.10
+  - Vanilla Permissions v0.2.2 alterado para o modrinth
+
 Valorium Server v0.3.2 - 29/04/2024
 ---------------
 
