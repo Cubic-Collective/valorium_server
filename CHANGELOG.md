@@ -1,6 +1,6 @@
 # Changelog
 
-Valorium Server v0.3.2 - 01/05/2024
+Valorium Server v0.4.0 - 01/05/2024
 ---------------
 
 - **Mudanças**:
