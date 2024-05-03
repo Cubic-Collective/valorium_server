@@ -1,5 +1,11 @@
 # Changelog
 
+Valorium Server v0.5.0 - 02/05/2024
+---------------
+
+- **Adicionado**:
+  - MixinTrace v1.1.1
+
 Valorium Server v0.4.0 - 01/05/2024
 ---------------
 
