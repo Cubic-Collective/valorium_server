@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "1908556e4fdcf33fab71c755d927daea6554f8b71f3197f7ea738f46dc46c542"
+hash = "059aaada96e0950f273a765f345edba0ec2937deaaea5b68d1cee9e0b4bb43dd"
 
 [[files]]
 file = "mods/LuckPerms-Fabric-PlaceholderAPI-Hook.jar"
