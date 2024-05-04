@@ -1,5 +1,12 @@
 # Changelog
 
+Valorium Server v0.6.0 - 03/05/2024
+---------------
+
+- **Adicionado**:
+  - ModernFix v5.17.0
+  - LazyDFU v0.1.3
+
 Valorium Server v0.5.0 - 02/05/2024
 ---------------
 

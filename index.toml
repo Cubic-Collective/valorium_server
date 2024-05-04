@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/modernfix-mixins.properties"
+hash = "4623f5c3b78c5bf866acdc9bc0fdf7795dc93d9e058d1124b1ec0c0ececc8a61"
+
+[[files]]
 file = "mods/LuckPerms-Fabric-PlaceholderAPI-Hook.jar"
 hash = "8725f502a6277a38be066c0c7b8a11a193381c0de8e1f5857debd67f282cbd04"
 
@@ -55,6 +59,11 @@ hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -77,6 +86,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "8bd4f3e61a962c0b730a9a9b5ce875b571ae7e39d350ad52b17f9fab467a3784"
 metafile = true
 
 [[files]]
