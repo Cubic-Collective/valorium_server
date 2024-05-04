@@ -1,5 +1,12 @@
 # Changelog
 
+Valorium Server v0.6.2 - 04/05/2024
+---------------
+
+- **Modificado**:
+  - Configuração adicionada no arquivo de configuração de ModernFix
+
+
 Valorium Server v0.6.1 - 04/05/2024
 ---------------
 
