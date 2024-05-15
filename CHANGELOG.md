@@ -1,5 +1,15 @@
 # Changelog
 
+Valorium Server v0.7.0 - 14/05/2024
+---------------
+
+- **Adicionado**:
+  - Configured Defaults v8.0.1
+  - Iceberg v1.1.18
+  - Forge Config Screens v8.0.2
+  - Forge Config API Port v8.0.0
+  - Mod Menu v7.2.2
+
 Valorium Server v0.6.2 - 04/05/2024
 ---------------
 
