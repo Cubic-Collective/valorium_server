@@ -1,5 +1,11 @@
 # Changelog
 
+Valorium Server v0.7.1 - 14/05/2024
+---------------
+
+- **Removido**:
+  - Configured Defaults v8.0.1
+
 Valorium Server v0.7.0 - 14/05/2024
 ---------------
 

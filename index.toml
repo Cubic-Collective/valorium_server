@@ -1,15 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
-file = "configureddefaults/README.md"
-hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
-
-[[files]]
-file = "configureddefaults/config/modernfix-mixins.properties"
+file = "config/modernfix-mixins.properties"
 hash = "059aaada96e0950f273a765f345edba0ec2937deaaea5b68d1cee9e0b4bb43dd"
 
 [[files]]
-file = "configureddefaults/config/modmenu.json"
+file = "config/modmenu.json"
 hash = "84d37a26afe276c7ce8d34896142c7b1ecc8ce19786deddcff5fafa105a510fa"
 
 [[files]]
@@ -39,11 +35,6 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "54b6de813db1fc2774b4002898fa89f902a7efeb33a05197cf7bfda498f6b94e"
-metafile = true
-
-[[files]]
-file = "mods/configured-defaults.pw.toml"
-hash = "51e03afa33ca0999c85ee7fdfe2fcc25d5b238abd2a8630a12cbb80f9b658b76"
 metafile = true
 
 [[files]]
