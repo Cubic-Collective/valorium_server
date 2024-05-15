@@ -1,5 +1,12 @@
 # Changelog
 
+Valorium Server v0.7.2 - 14/05/2024
+---------------
+
+- **Removido**:
+  - Forge Config Screens v8.0.2
+  - Mod Menu v7.2.2
+
 Valorium Server v0.7.1 - 14/05/2024
 ---------------
 
