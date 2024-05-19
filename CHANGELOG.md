@@ -4,6 +4,7 @@ Valorium Server v0.7.3 - 18/05/2024
 ---------------
 
 - **Modificado**:
+  - Alternate Current v1.7.0 para v1.8.0-beta.3
   - Continents v1.1.4 para v1.1.5
   - Terralith v2.4.11 para v2.5.1
 
