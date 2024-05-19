@@ -1,5 +1,12 @@
 # Changelog
 
+Valorium Server v0.7.3 - 18/05/2024
+---------------
+
+- **Modificado**:
+  - Continents v1.1.4 para v1.1.5
+  - Terralith v2.4.11 para v2.5.1
+
 Valorium Server v0.7.2 - 14/05/2024
 ---------------
 
