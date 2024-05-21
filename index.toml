@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "3d1feb9fadc5a7e649d0c78a13e2e91e064d7dba2018c699731d1cfa3a2a8ad8"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "059aaada96e0950f273a765f345edba0ec2937deaaea5b68d1cee9e0b4bb43dd"
 
@@ -101,6 +105,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "8bd4f3e61a962c0b730a9a9b5ce875b571ae7e39d350ad52b17f9fab467a3784"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]

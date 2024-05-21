@@ -1,5 +1,11 @@
 # Changelog
 
+Valorium Server v0.8.0 - 21/05/2024
+---------------
+
+- **Adicionado**:
+  - No Chat Reports v2.2.2
+
 Valorium Server v0.7.3 - 18/05/2024
 ---------------
 
