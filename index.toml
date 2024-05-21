@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "3d1feb9fadc5a7e649d0c78a13e2e91e064d7dba2018c699731d1cfa3a2a8ad8"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "059aaada96e0950f273a765f345edba0ec2937deaaea5b68d1cee9e0b4bb43dd"
 
