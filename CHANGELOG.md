@@ -1,5 +1,12 @@
 # Changelog
 
+Valorium Server v0.9.0 - 23/05/2024
+---------------
+
+- **Adicionado**:
+  - Chunky v1.3.146
+  - Chunky Border v1.1.53
+
 Valorium Server v0.8.0 - 21/05/2024
 ---------------
 
