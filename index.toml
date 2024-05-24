@@ -5,6 +5,14 @@ file = "config/NoChatReports/NCR-Common.json"
 hash = "3d1feb9fadc5a7e649d0c78a13e2e91e064d7dba2018c699731d1cfa3a2a8ad8"
 
 [[files]]
+file = "config/chunky/config.json"
+hash = "53b077a5cc897a00d839a123a76db8331125b6a954de6a737c8faaea04a34407"
+
+[[files]]
+file = "config/chunkyborder/config.json"
+hash = "5e9d5139325c011187b65a7202070c180e831cdbf84fffcd56822d4392ba251b"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "059aaada96e0950f273a765f345edba0ec2937deaaea5b68d1cee9e0b4bb43dd"
 
