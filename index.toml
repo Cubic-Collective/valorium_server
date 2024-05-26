@@ -18,7 +18,7 @@ hash = "059aaada96e0950f273a765f345edba0ec2937deaaea5b68d1cee9e0b4bb43dd"
 
 [[files]]
 file = "config/seasons.json"
-hash = "773d6e71b8fbb003706ea3cd4a6398e63729ba124b5f56cf8b79431cef29b461"
+hash = "dd883c1de492bbdf6e11caa16071aa36fcf98b50270ca5583efc3091ad14bc8b"
 
 [[files]]
 file = "mods/LuckPerms-Fabric-PlaceholderAPI-Hook.jar"
