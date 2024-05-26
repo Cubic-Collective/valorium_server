@@ -1,9 +1,9 @@
 {
   "seasonLength": {
-    "springLength": 672000,
-    "summerLength": 672000,
-    "fallLength": 672000,
-    "winterLength": 672000
+    "springLength": 2160000,
+    "summerLength": 2160000,
+    "fallLength": 2160000,
+    "winterLength": 2160000
   },
   "seasonLock": {
     "isSeasonLocked": false,
