@@ -1,5 +1,11 @@
 # Changelog
 
+Valorium Server v0.10.1 - 26/05/2024
+---------------
+
+- **Modificado**:
+  - Correção das hashs dos arquivos do modpack.
+
 Valorium Server v0.10.0 - 26/05/2024
 ---------------
 
