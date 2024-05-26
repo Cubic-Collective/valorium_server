@@ -5,7 +5,7 @@ Valorium Server v0.10.0 - 26/05/2024
 
 - **Adicionado**:
   - Fabric Seasons v2.3
-  - Fabric Seasons Extras v1.2
+  - Fabric Seasons: Extras v1.2
 
 Valorium Server v0.9.0 - 23/05/2024
 ---------------
