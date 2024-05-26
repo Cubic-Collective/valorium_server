@@ -10,7 +10,7 @@ hash = "53b077a5cc897a00d839a123a76db8331125b6a954de6a737c8faaea04a34407"
 
 [[files]]
 file = "config/chunkyborder/config.json"
-hash = "7750e0262650786f12384764e9fe61f85873862849086a06b4c6643a52ce00f3"
+hash = "5e9d5139325c011187b65a7202070c180e831cdbf84fffcd56822d4392ba251b"
 
 [[files]]
 file = "config/modernfix-mixins.properties"

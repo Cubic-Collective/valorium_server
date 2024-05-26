@@ -2,7 +2,7 @@
   "version": 1,
   "borderOptions": {
     "checkInterval": 40,
-    "message": "<b>Você chegou na borda do mundo!</b>.",
+    "message": "&cVocê chegou na borda do mundo!",
     "useActionBar": true,
     "effect": "2003",
     "sound": "entity.enderman.teleport",
