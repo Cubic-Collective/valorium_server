@@ -93,14 +93,14 @@ Valorium Server v0.5.0 - 02/05/2024
 Valorium Server v0.4.0 - 01/05/2024
 ---------------
 
-- **Mudanças**:
+- **Modificado**:
   - Fabric Loader v0.15.7 para v0.15.10
   - Vanilla Permissions v0.2.2 alterado para o modrinth
 
 Valorium Server v0.3.2 - 29/04/2024
 ---------------
 
-- **Mudanças**:
+- **Modificado**:
   - Clumps v12.0.0.3 para v12.0.0.4
   - Fabric API v0.92.0 para v0.92.1
   - Tectonic v2.2.1 para v2.3.4
@@ -108,7 +108,7 @@ Valorium Server v0.3.2 - 29/04/2024
 Valorium Server v0.3.1 - 17/03/2024
 ---------------
 
-- **Mudanças**:
+- **Modificado**:
   - Tectonic v2.2 para v2.2.1
 
 Valorium Server v0.3.0 - 03/03/2024
@@ -159,7 +159,7 @@ Valorium Server v0.1.5 - 22/02/2024
 
 - **Adicionado**:
   - EasyAuth v3.0.19
-- **Mudanças**:
+- **Modificado**:
   - Fabric Loader v0.15.6 para v0.15.7
 
 Valorium Server v0.1.4 - 19/02/2024
