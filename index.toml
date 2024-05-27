@@ -65,6 +65,11 @@ hash = "50e33b7f8ad2a93893490cef299d6103eac2bcc14088c40ede0745f255d52c94"
 metafile = true
 
 [[files]]
+file = "mods/deuf-refabricated.pw.toml"
+hash = "8455a09291dec2839233c63f99cf6535afdaf9698b8fe624a86b97523877aa9d"
+metafile = true
+
+[[files]]
 file = "mods/easyauth.pw.toml"
 hash = "a4a87e7580a1651f429af181e1be40a5b3c4b1969f80288c5199dcde91592ee7"
 metafile = true
@@ -97,6 +102,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "b60c351dc27fdfefbbce5c51e964e02aac963ae203f8ec3f203d841af449d3a3"
+metafile = true
+
+[[files]]
+file = "mods/kleeslabs.pw.toml"
+hash = "97dde1d017b8c9385ba339ab769b85d7ec299f7c8ce5b31e5935c42f4c3eac21"
 metafile = true
 
 [[files]]

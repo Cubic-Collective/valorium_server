@@ -1,5 +1,12 @@
 # Changelog
 
+Valorium Server v0.11.0 - 27/05/2024
+---------------
+
+- **Adicionado**:
+  - DEUF Refabricated v1.1.0
+  - KleeSlabs v15.0.0
+
 Valorium Server v0.10.1 - 26/05/2024
 ---------------
 
