@@ -8,6 +8,6 @@ RUN apt-get clean
 
 WORKDIR /home/valorium
 
-COPY ./docker/valorium/server/ /home/valorium/
+COPY ./server/ /home/valorium/
 
 RUN ls
