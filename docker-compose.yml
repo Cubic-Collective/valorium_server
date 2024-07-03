@@ -1,0 +1,13 @@
+﻿services:
+  valorium-server:
+    container_name: valorium-server
+    build:
+      context: ./.docker/valorium
+      dockerfile: Dockerfile
+    entrypoint: ./scripts/start.sh
+    ports:
+      - '25565:25565'
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./.docker/valorium/server:/home/valorium

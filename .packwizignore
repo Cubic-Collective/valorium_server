@@ -7,3 +7,5 @@
 /CHANGELOG.md
 /.gitignore
 /.gitattributes
+/.docker
+/docker-compose.yml

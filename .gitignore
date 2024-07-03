@@ -3,3 +3,8 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+# Docker
+.docker/valorium/server/*
+!.docker/valorium/server/scripts
+.docker/mariadb/data
