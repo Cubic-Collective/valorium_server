@@ -9,3 +9,4 @@
 /.gitattributes
 /.docker
 /docker-compose.yml
+/.env
