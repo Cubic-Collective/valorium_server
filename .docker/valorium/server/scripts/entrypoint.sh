@@ -10,3 +10,5 @@ if [ $content -gt 0 ]; then
 else
     bash ./$scripts_directory/install.sh
 fi
+
+tail -f /dev/null
