@@ -1,7 +1,0 @@
-{
-  "demandOnClientMessage": "Você não têm No Chat Reports instalado, e o mod é exigido neste servidor!",
-  "demandOnClient": true,
-  "convertToGameMessage": false,
-  "addQueryData": true,
-  "enableDebugLog": false
-}
